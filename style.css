@@ -15,3 +15,9 @@ section{
     justify-content: center;
     align-items: center;
 }
+
+section h2{
+    color: #fff;
+    font-size: #fff;
+    cursor: default;
+}
